@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<h1 align="center">Hi 👋, I'm Ergin</h1>
+
+- 🔭 I’m co-founder of [Segmentify](https://www.segmentify.com/)
+- 🕊 I write open source software in my free time
+- 💬 Ask me about **scalable applications & recommender systems**
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=ergineroglu&show_icons=true&locale=en)](localhost)
